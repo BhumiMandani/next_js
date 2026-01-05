@@ -1,0 +1,11 @@
+import React from 'react'
+
+
+export default function Home() {
+  return (
+        <>
+        <h2 className='text-red-700'>Home page</h2>
+        
+        </>
+  )
+}
